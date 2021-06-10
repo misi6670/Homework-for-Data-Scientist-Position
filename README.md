@@ -1,6 +1,9 @@
 # Homework for Data Scientist Position
 Author: Mintija Šimulionytė
 
+This program was written in Python:
+[Python Code](https://github.com/misi6670/Homework-for-Data-Scientist-Position/blob/main/PythonCode.py).
+
 ## Analysis
 
 For weekly sales the biggest influence is store size, we can see that the more items the store can hold, the more items they can sell.
