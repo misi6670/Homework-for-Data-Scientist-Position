@@ -20,6 +20,7 @@ data['Year'] = data['Date'].dt.year
 data['Month'] = data['Date'].dt.month
 print(data)
 
+import matplotlib.pyplot as plt
 
 plt.figure(figsize=(6, 8))
 datacor = data[["Temperature", "Fuel_Price", "MarkDown1", "MarkDown2", "MarkDown3", "MarkDown4", 
